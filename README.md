@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Shahriar</h1>
 <h3 align="center">A passionate Software Engineer ( Backend + Mobile ) from Bangladesh who is enthusiast about Clean architectures and Machine Learning</h3>
 
-<p align="center">
+<p style="text-align: center;">
   
   - 🔭 I’m currently Software Engineer at [Portonics.LTD](https://portonics.com/)
 
