@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href = "mailto:akashshahriar55@gmail.com">Akash Shahriar</a> </h1>
-<h4 align="center">Software Engineer at <a href = "https://portonics.com/">Portonics.LTD</a></h2>
+<h2 align="center">Software Engineer at <a href = "https://portonics.com/">Portonics.LTD</a></h2>
 <h3 align="center">A passionate Software Engineer ( Backend + Mobile ) from Bangladesh who is enthusiast about Clean architectures and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
