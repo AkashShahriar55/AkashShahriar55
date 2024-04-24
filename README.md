@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akash Shahriar</h1>
+<h1 align="center">Hi 👋, I'm <a href = "mailto:akashshahriar55@gmail.com">Akash Shahriar</a> </h1>
+<h2 align="center">Software Engineer at [Portonics.LTD](https://portonics.com/)</h2>
 <h3 align="center">A passionate Software Engineer ( Backend + Mobile ) from Bangladesh who is enthusiast about Clean architectures and Machine Learning</h3>
-
-<p style="text-align: center;">
-  
-  - 🔭 I’m currently Software Engineer at [Portonics.LTD](https://portonics.com/)
-
-  - 🌱 I’m currently learning **Kotlin Multi Platform , Compose Multi Platform**
-
-  - 💬 Ask me about **Android , Jetpack compose , Clean Architecture , SOLID principles , Design Patterns**
-
-  - 📫 How to reach me **akashshahriar55@gmail.com**
-
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
