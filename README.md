@@ -1,116 +1,74 @@
-<h1 align="center">Hi 👋, I'm <a href = "mailto:akashshahriar55@gmail.com">Akash Shahriar</a> </h1>
-<h3 align="center">A passionate Software Engineer ( Backend + Mobile ) from Bangladesh who is enthusiast about Clean architectures and Machine Learning</h3>
-<h4 align="center">Software Engineer at <a href = "https://portonics.com/">Portonics.LTD</a></h2>
+# Akash Shahriar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/akashshahriar55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/akashshahriar55" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akash-shahriar-784362194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-shahriar-784362194/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:23703077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23703077" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akash.shahriar.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash.shahriar.3/" height="30" width="40" /></a>
-<a href="https://medium.com/@akashshahriar55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashshahriar55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashshahriar55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashshahriar55" height="30" width="40" /></a>
-</p>
+**Senior Mobile Engineer** — Flutter, Kotlin Multiplatform, Android.
+I build mobile products end to end, usually the parts that have to work in real time
+or handle money.
 
-<h3 align="left">Core Expertise:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.khronos.org/opengles/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenGL_ES_logo_%28Nov14%29.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+Currently at **365 Retail Markets (CHEQ)**, where I own the checkout and transaction
+core of a restaurant POS client that ships from one Flutter codebase to four hardware
+form factors — terminal, handheld, and two kiosk orientations.
 
-<h3 align="left">Operating Systems:</h3>
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+Before that: carrier apps at Portonics (Robi Axiata, True Corporation, ATOM Myanmar),
+and three years at Kite Games shipping consumer photo/video apps to millions of users,
+working close to the metal with OpenGL, FFmpeg and the Android NDK.
 
-<h3 align="left">Languages:</h3>
-<p align="left">  
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+---
 
-<h3 align="left">Frameworks:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
+### What I work on
 
-<h3 align="left">Libraries:</h3>
-<p align="left"> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
+**Real-time & AI** — Took a full-duplex AI voice-ordering agent from proof of concept
+to production: streaming STT/TTS, LLM ordering grounded in live menu data via RAG, and
+a native audio plugin handling echo cancellation and mid-sentence interruption. Most of
+the difficulty was concurrency, not prompting.
 
-<h3 align="left">Cloud Services:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+**Architecture at scale** — Led a migration off a legacy Provider codebase onto a clean
+multi-package architecture (BLoC/Cubit, `get_it`/`injectable`, `go_router`), retiring
+~360K lines of legacy code once the new app reached parity.
 
-<h3 align="left">Databases:</h3>
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+**Low-level media** — Video/audio processing engines built on OpenGL surfaces,
+BufferQueue and MediaCodec; FFmpeg pipelines with LRU-cached fallbacks.
 
-<h3 align="left">Version controls:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+---
 
-<h3 align="left">Game Engines:</h3>
-<p align="left"> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-</p>
+### Tech
 
-<h3 align="left">UI/UX Tools:</h3>
-<p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-</p>
+**Mobile** Flutter · Dart · Kotlin · Kotlin Multiplatform · Jetpack Compose ·
+Compose Multiplatform · Swift (platform channels)
 
-<h3 align="left">Automations:</h3>
-<p align="left"> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-</p>
+**Architecture** Clean / multi-package · MVVM · MVI · BLoC/Cubit · Riverpod ·
+offline-first sync · server-driven UI
 
-<h3 align="left">PM Tools:</h3>
-<p align="left"> 
+**AI & real-time** OpenAI · Gemini · RAG · LangChain · streaming STT/TTS (Deepgram) ·
+native audio · WebSocket · NATS
 
-</p>
+**Platform** OpenGL ES · FFmpeg · Android NDK/JNI · MediaCodec · TensorFlow Lite
 
-<h3 align="left">Other Tools:</h3>
-<p align="left"> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
+**Backend & infra** Node.js · NestJS · FastAPI · PostgreSQL · MongoDB · Docker ·
+AWS · GCP · Firebase · CI/CD (GitLab, CircleCI, Fastlane)
 
-<p align="center" > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshahriar55&" alt="akashshahriar55" /></p>
+---
+
+### Shipped
+
+| Project | What it is |
+|---|---|
+| ⟨app name⟩ | ⟨one line⟩ — [Play Store](⟨link⟩) |
+| ⟨app name⟩ | ⟨one line⟩ — [App Store](⟨link⟩) |
+| ⟨app name⟩ | ⟨one line⟩ — [Play Store](⟨link⟩) |
+
+---
+
+### Writing & research
+
+- **"An Intelligent Bangla Conversational Agent: TUNI"** — co-author, Springer Nature,
+  *Algorithms for Intelligent Systems*, 2020.
+- Champion, Grameenphone Hackathon.
+
+---
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/akash-shahriar-784362194/) ·
+[Toptal](https://www.toptal.com/developers/resume/akash-shahriar) ·
+[LeetCode](https://leetcode.com/akashshahriar55/) ·
+[Email](mailto:akashshahriar55@gmail.com)
