@@ -8,22 +8,18 @@ By day at **365 Retail Markets**: a real-time AI voice-ordering agent and a Flut
 
 #### Building
 
-| | |
-|---|---|
-| [**Rankwell**](https://github.com/AkashShahriar55/rankwell) | App Store Optimization and release automation inside Claude Code |
-| [**Utshob**](https://akashshahriar.com/work/utshob) | Event ticketing for Bangladesh, Ireland and the US |
-| [**PassFirst**](https://akashshahriar.com/work/passfirst) | Passport and visa photos checked against the official rules, on the phone |
-| [**ScreenKit**](https://akashshahriar.com/work/screenkit) | Raw screenshots to finished App Store and Google Play sets |
+- [**Rankwell**](https://github.com/AkashShahriar55/rankwell): App Store Optimization and release automation inside Claude Code
+- [**Utshob**](https://akashshahriar.com/work/utshob): Event ticketing for Bangladesh, Ireland and the US
+- [**PassFirst**](https://akashshahriar.com/work/passfirst): Passport and visa photos checked against the official rules, on the phone
+- [**ScreenKit**](https://akashshahriar.com/work/screenkit): Raw screenshots to finished App Store and Google Play sets
 
 #### Shipped
 
-| | |
-|---|---|
-| [**NostalgAI**](https://akashshahriar.com/work/nostalgai) | AI photo looks for iOS, concept to App Store in one month |
-| [**MediMind**](https://akashshahriar.com/work/medimind) | Scans a prescription and builds the medication schedule |
-| [**ParkSight**](https://akashshahriar.com/work/parksight) | Parking marketplace with Stripe Connect payouts |
-| [**AIDeskHub**](https://akashshahriar.com/work/aideskhub) | AI voice receptionist for small businesses |
-| [**My Robi**](https://akashshahriar.com/work/my-robi) · [**dtac**](https://akashshahriar.com/work/dtac) | Carrier self-care apps for Robi Axiata and True Corporation (10M+) |
+- [**NostalgAI**](https://akashshahriar.com/work/nostalgai): AI photo looks for iOS, concept to App Store in one month
+- [**MediMind**](https://akashshahriar.com/work/medimind): Scans a prescription and builds the medication schedule
+- [**ParkSight**](https://akashshahriar.com/work/parksight): Parking marketplace with Stripe Connect payouts
+- [**AIDeskHub**](https://akashshahriar.com/work/aideskhub): AI voice receptionist for small businesses
+- [**My Robi**](https://akashshahriar.com/work/my-robi) · [**dtac**](https://akashshahriar.com/work/dtac): Carrier self-care apps for Robi Axiata and True Corporation (10M+)
 
 #### Open source
 
